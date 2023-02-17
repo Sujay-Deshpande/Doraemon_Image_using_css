@@ -346,7 +346,7 @@ body {
 }
 
 .mouth {
-  --mouth-height: 115px;
+  --mouth-height: 110px;
   --mouth-top-height: 25px;
   --mouth-bottom-height: calc(var(--mouth-height) - var(--mouth-top-height));
   position: absolute;
@@ -360,7 +360,7 @@ body {
 }
 
 .mouth-top {
-  width: calc(100% - 34px);
+  width: calc(10% - 34px);
   left: 51%;
   transform: translate(calc(-50% - 1px));
   background: #fff;
